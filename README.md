@@ -1,4 +1,4 @@
-# Backup.sh
+# Gitlab Repository Backupper
 
 This script is used to clone all repositories from a GitLab instance.
 
